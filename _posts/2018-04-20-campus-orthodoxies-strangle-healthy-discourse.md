@@ -1,9 +1,14 @@
 ---
 layout: post
 title: Campus Orthodoxies Strangle Healthy Discourse
+excerpt_separator: "<!--more-->"
 categories:
 ---
+![The Trial of Bradley]({{"/assets/trialofbradley.png"}})
+
 Students at Lewis & Clark have a strained connection to politics. They are much more aware of the world around them than the general public and even most college students. LC students are noble and empathetic in their concerns for discourse and the consequences of speech, but debates rarely take place. I often find myself wondering if the concern is earnest, or just performative.
+
+<!--more-->
 
 It is no secret that LC skews liberal. There is a certain orthodoxy among students and professors — not quite a cohesive doctrine, but one that can certainly be defined by what it is not. The school cultivates this image, misguidedly focusing on the school’s politics rather than the liberal arts. What upperclassman can forget the school promoting photos of the anti-administration protests in 2015 on its Facebook page? The college co-opted this to demonstrate the administration’s progressiveness and willingness for dialogue, although then-president Glassner would not engage with protesters. For many underclassmen their first glance into campus life was a curation of how acceptable dissent is. But dissent from what?
 
@@ -24,3 +29,5 @@ In addition, seldom have I heard more than an apathetic groan at the mention of 
 While I do agree with some sort of “marketplace of ideas” approach to campus speech, I am not advocating for any radical shift in discourse. I just want students to start having meaningful conversations on political and social topics. I believe that the lack of substantive or vocalized disagreement shapes our environment. For all of the great moments at symposia, how many students can say they have actually been intellectually challenged by a speaker? For all of the kind members of our community, how many reprehensible people have had their actions ignored because they stuck to the script, joined the right clubs and had people to vouch for their “wokeness”?
 
 The illusory nature of LC’s orthodoxy is certainly part of the problem. Usually, the latest talking points from John Oliver, the Atlantic or viral social media movement will suffice. We should think beyond what is in vogue and be excited by the prospect of challenging ourselves and our peers. Perhaps viewpoints will remain the same but at least they will be out of conviction. Beyond being important for our intellectual development, our discourse directly affects political and social campus life. We can do better and become thinkers, not just performers.
+
+This piece was originally published in [the Pioneer Log.](http://www.piolog.com/2018/04/20/campus-orthodoxies-strangle-healthy-discourse/)
