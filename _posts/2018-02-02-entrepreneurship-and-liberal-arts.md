@@ -2,6 +2,7 @@
 layout: post
 title: Entrepreneurship & Liberal Arts
 categories: 
+tags: Lewis&Clark Education Entrepreneurship
 ---
 
 I do not care for computer programming, accounting or business more broadly. As a political science major, I seek classes that read Plato or study Middle East relations. I have written in this paper about the need to encourage a Great Books curriculum. Nonetheless, I believe Lewis & Clark College’s most undervalued and underappreciated program is Entrepreneurial Innovation. In fact, I have seldom learned more than in Technologies of the Future — and certainly never had as much fun in class.

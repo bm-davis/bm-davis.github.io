@@ -25,6 +25,27 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-scholar
+  
+scholar:
+  style: assets/bibliography/mycslfile.csl
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: assets/bibliography
+  bibliography: bibliography
+  bibliography_template: bibtemplate
+
+  replace_strings: true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
 
 # Custom vars
 version:            3.6.0

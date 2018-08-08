@@ -3,6 +3,7 @@ layout: post
 title: Campus Orthodoxies Strangle Healthy Discourse
 excerpt_separator: "<!--more-->"
 categories:
+tags: Lewis&Clark Progressivism Debate Education
 ---
 ![The Trial of Bradley]({{"/assets/trialofbradley.png"}})
 
