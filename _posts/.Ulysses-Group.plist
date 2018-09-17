@@ -28,26 +28,16 @@
 			</dict>
 			<key>2018-05-24-nietzsche.md</key>
 			<dict>
-				<key>lastModification</key>
-				<real>548857051.51944196</real>
-				<key>version</key>
-				<dict>
-					<key>6bebd04c46f91512524c214564670e1ea2976f9e8982883b51899ffdf3ae9ae6</key>
-					<integer>2</integer>
-				</dict>
-			</dict>
-			<key>2018-06-13-resume.md</key>
-			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>550568372.01859701</real>
+				<real>558796202.85098505</real>
 				<key>lastModification</key>
-				<real>550568372.01859701</real>
+				<real>558796202.85098505</real>
 				<key>version</key>
 				<dict>
 					<key>6bebd04c46f91512524c214564670e1ea2976f9e8982883b51899ffdf3ae9ae6</key>
-					<integer>40</integer>
+					<integer>42</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -65,9 +55,6 @@
 		<array>
 			<string>2018-02-02-entrepreneurship-and-liberal-arts.md</string>
 		</array>
-		<array>
-			<string>2018-06-13-resume.md</string>
-		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -78,7 +65,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>6bebd04c46f91512524c214564670e1ea2976f9e8982883b51899ffdf3ae9ae6</key>
-			<integer>41</integer>
+			<integer>47</integer>
 		</dict>
 		<key>userIconName</key>
 		<dict>

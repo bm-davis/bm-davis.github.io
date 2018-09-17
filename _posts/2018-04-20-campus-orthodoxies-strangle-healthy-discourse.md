@@ -5,7 +5,7 @@ excerpt_separator: "<!--more-->"
 categories:
 tags: Lewis&Clark Progressivism Debate Education
 ---
-![The Trial of Bradley]({{"/assets/trialofbradley.png"}})
+![The Trial of Bradley]({{"/assets/images/trialofbradley.png"}})
 
 Students at Lewis & Clark have a strained connection to politics. They are much more aware of the world around them than the general public and even most college students. LC students are noble and empathetic in their concerns for discourse and the consequences of speech, but debates rarely take place. I often find myself wondering if the concern is earnest, or just performative.
 

@@ -5,7 +5,7 @@ layout: page
 {% unless page.content == '' %}
   {{ content }}
 {% endunless %}
-
+<br><hr style="height:2px;border:none;color:#0F2034;background-color:#333;" />
 <ul class="posts-list">
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
